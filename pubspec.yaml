@@ -1,0 +1,19 @@
+name: transparent_tap_animation
+description: A lightweight iOS-style tap animation widget for Flutter. Smoothly reduces opacity on press with scroll-aware gesture detection, double-tap, and long-press support.
+version: 0.0.1
+homepage: https://github.com/arifozgun/transparent_tap_animation
+repository: https://github.com/arifozgun/transparent_tap_animation
+issue_tracker: https://github.com/arifozgun/transparent_tap_animation/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0

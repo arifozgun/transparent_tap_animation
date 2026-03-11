@@ -19,9 +19,9 @@ A lightweight, iOS-style tap animation widget for Flutter. It smoothly reduces t
 
 Add the package to your `pubspec.yaml` file:
 
-```yaml
+````yaml
 dependencies:
-  transparent_tap_animation: ^0.0.1
+  transparent_tap_animation: ^<latest_version>
 ```
 
 ## Usage

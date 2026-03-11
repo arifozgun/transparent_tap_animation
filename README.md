@@ -2,7 +2,7 @@
 
 A lightweight, iOS-style tap animation widget for Flutter. It smoothly reduces the opacity of its child upon press and incorporates intelligent scroll-aware gesture detection to prevent unintended tap events during scrolling.
 
-![Transparent Tap Animation Demo](https://github.com/user-attachments/assets/99161065-5eb4-4ac8-a9dc-33465bcd550d)
+![Transparent Tap Animation Demo](https://github.com/user-attachments/assets/faa4023e-b90d-42b2-ab95-9fda83fff8da)
 
 ## Features
 
